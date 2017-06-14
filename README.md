@@ -1,2 +1,2 @@
-# Project2
-web design summer 2017
+# Project1
+ITM web design Summer Class
