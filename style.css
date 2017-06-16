@@ -57,16 +57,57 @@
 /* end nav bar */
 
 body{
-	background-color: gray;
+	background-color: #595959;
 }
 
+/* EvoPage */
 #evopage{
 	text-align: center;
+   font-family: 'Roboto Condensed', sans-serif;
 }
 
+#evopage p,ul{
+	font-size: 1.4rem;
+	color: black;
+}
+
+.evospecs{
+	font-size: 1.4rem;
+	color: black;
+
+}
+
+.EvoPerformance{
+	font-size: 1.4rem;
+	color: black;
+
+}
+
+
+
+/* RaptorPage */
 #Raptorpage{
 	text-align: center;
+	font-family: 'Droid Sans', sans-serif;
 }
+
+#Raptorpage p,ul{
+	font-size: 1.4rem;
+	color: black;
+}
+
+/* Resume Page */
+
+#Resumepage {
+	font-family: 'Spectral', serif;
+}
+
+#Resumepage p{
+	font-size: 140%;
+}
+
+
+/* end Resume */
 
 li {
 	list-style-type: none;
@@ -78,5 +119,8 @@ li {
 }
 
 #belowMenuh2{
-	margin-top: 50px;
+margin-top: 50px;
 }
+
+
+
