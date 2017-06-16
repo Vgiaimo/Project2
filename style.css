@@ -56,12 +56,11 @@
 
 /* end nav bar */
 
-body{
-	background-color: #595959;
-}
+
 
 /* EvoPage */
 #evopage{
+	background-color: #595959;
 	text-align: center;
    font-family: 'Roboto Condensed', sans-serif;
 }
@@ -87,6 +86,7 @@ body{
 
 /* RaptorPage */
 #Raptorpage{
+	background-color: #595959;
 	text-align: center;
 	font-family: 'Droid Sans', sans-serif;
 }
@@ -100,7 +100,38 @@ body{
 
 #Resumepage {
 	font-family: 'Spectral', serif;
+	margin: 0px;
 }
+
+#container{
+	width: 968px;
+	margin: 0px auto;
+}
+
+.header{
+	background: gray;
+	height: 130px;
+	width: 964px;
+	border: solid 2px #000;
+	color: black;
+	text-align: center;
+}
+
+.nav{
+	background: gray;
+	height: 80px;
+	width: 964px;
+	border: solid 2px #000;
+
+}
+
+.Main{
+	background: gray;
+	height: 1000px;
+	width: 964px;
+	border: solid 2px #000;
+}
+
 
 #Resumepage p{
 	font-size: 140%;
@@ -116,6 +147,7 @@ li {
 #Menu{
 	text-align: center;
 	margin-bottom: 30px;
+
 }
 
 #belowMenuh2{
