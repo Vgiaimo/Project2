@@ -17,15 +17,26 @@
 
 }
 
-.site-nav a{
+.site-nav a:not(.active){
 	text-decoration: none;
 	color: red;
 	padding: 10px 20px;
-	border: 3px solid black;
+	border: 3px solid  black;
 	font-weight: bold;
+	background-color: black;
 }
 
-.site-nav a:hover {
+.site-nav a:hover{
+	background-color: black;
+	opacity: 0.5;
+}
+
+.site-nav a.active{
+	text-decoration: underline;
+	color: red;
+	padding: 10px 20px;
+	border: 3px solid red;
+	font-weight: bold;
 	background-color: black;
 }
 
@@ -47,4 +58,25 @@
 
 body{
 	background-color: gray;
+}
+
+#evopage{
+	text-align: center;
+}
+
+#Raptorpage{
+	text-align: center;
+}
+
+li {
+	list-style-type: none;
+}
+
+#Menu{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+#belowMenuh2{
+	margin-top: 50px;
 }
