@@ -83,6 +83,16 @@
 }
 
 
+.header-e{
+	background: gray;
+	height: 130px;
+	border: solid 2px #000;
+	color: black;
+}
+
+
+
+
 
 /* RaptorPage */
 #Raptorpage{
@@ -95,6 +105,8 @@
 	font-size: 1.4rem;
 	color: black;
 }
+
+
 
 /* Resume Page */
 
@@ -153,6 +165,7 @@ li {
 #belowMenuh2{
 margin-top: 50px;
 }
+
 
 
 
