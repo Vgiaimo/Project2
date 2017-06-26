@@ -14,7 +14,6 @@
     list-style-type: none;
     display: inline-block;
     margin-left: 5px;
-
 }
 
 .site-nav a:not(.active){
@@ -86,7 +85,23 @@
 	color: black;
 }
 
+@media screen and (min-width: 960px){
+	.evovid, .evo9{
+		width: 700px;
+	}
+}
 
+@media screen and (max-width: 960px){
+	.evovid, .evo9{
+		width: 600px
+	}
+}
+
+
+@media screen and (max-width: 500px){
+	.evovid, .evo9{
+		width: 480px;
+	}	
 
 
 
