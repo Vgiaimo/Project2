@@ -63,6 +63,7 @@
 #evopage p,ul{
 	font-size: 1.4rem;
 	color: black;
+	list-style-type: none;
 }
 
 .evospecs{
