@@ -1,3 +1,4 @@
+
 /* site navigation bar */
 
 .site-nav {
@@ -101,9 +102,23 @@
 
 @media screen and (max-width: 500px){
 	.evovid, .evo9{
-		width: 480px;
-	}	
+		width: 400px;
+	}
+}
 
+div .evoV{
+	width: 80px;
+	height: 500px;
+	text-align: center;
+	display: inline;
+	margin: 0 auto
+}
+
+
+video{
+	max-width: 80%;
+	height: auto;
+}
 
 
 /* RaptorPage */
@@ -175,6 +190,13 @@ li {
 #belowMenuh2{
 	margin-top: 50px;
 }
+
+
+
+
+
+
+
 
 
 
