@@ -102,6 +102,7 @@
 
 @media screen and (max-width: 500px){
 	.evovid, .evo9{
+<<<<<<< HEAD
 		width: 400px;
 	}
 }
@@ -113,6 +114,11 @@ div .evoV{
 	display: inline;
 	margin: 0 auto
 }
+=======
+		width: 480px;
+	}
+}
+>>>>>>> 294eec5b414885156d5760e9c01ccd92ab5ad271
 
 
 video{
