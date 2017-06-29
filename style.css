@@ -102,7 +102,6 @@
 
 @media screen and (max-width: 500px){
 	.evovid, .evo9{
-<<<<<<< HEAD
 		width: 400px;
 	}
 }
@@ -113,21 +112,9 @@ div .evoV{
 	text-align: center;
 	display: inline;
 	margin: 0 auto
-}
-=======
-		width: 480px;
-	}
-}
->>>>>>> 294eec5b414885156d5760e9c01ccd92ab5ad271
 
 
-video{
-	max-width: 80%;
-	height: auto;
-}
-
-
-/* RaptorPage */
+/*Raptorpage*/
 #Raptorpage{
 	background-color: #595959;
 	text-align: center;
